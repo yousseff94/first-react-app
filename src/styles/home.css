@@ -1,0 +1,21 @@
+.article {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+.article article{
+    flex-basis:30% ;
+    padding: 1% 1%;
+    justify-content: space-around;
+    margin: auto;
+    text-align: center;
+}
+#couleur {
+    text-align: center;
+    color:orange;
+}
+h2 {
+    text-align: center;
+}
+
